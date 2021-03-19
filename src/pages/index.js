@@ -26,7 +26,7 @@ const IndexPage = () => (
       >
         <Logo />
         <Heading fontSize="3xl" variant="main">
-          Generate blobs
+          Blobs
         </Heading>
       </Flex>
       <Box
